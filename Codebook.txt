@@ -1,0 +1,7 @@
+1. Subject (integer) - this contains the subject ID (30 total participants across the Test and Train data sets).
+
+2. Activity (factor) - This represents any of the six activities that the participants were asked to perform in the experiment (walking, walking upstairs, walking downstairs, sitting, standing, and laying)
+
+3. Feature Name (factor) this represents all of the measurements that were taken based off of the observational data in the experiment. (561 measurements).
+
+4. Value - this is the average value for the particular feature variable, for the subject and activity specified in each row. 
